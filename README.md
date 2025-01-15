@@ -52,3 +52,6 @@ SHOPY is a simple GUI-based shopping cart application built using Python and Tki
 - Milk: ₹50
 - Bread: ₹25
 
+![image](https://github.com/user-attachments/assets/74dbb6b7-04f2-4455-95f5-6bb7ae9514cd)
+
+
